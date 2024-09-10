@@ -1,0 +1,72 @@
+{
+	"status": "success",
+	"message": "",
+	"data": {
+	  "domain_cdn": "https://sv1.otruyencdn.com",
+	  "item": {
+		"_id": "658ae658ac52820f5649384a",
+		"comic_name": "Fatekaleid Liner Prisma Illya Drei! [Chap 0-72]",
+		"chapter_name": "71",
+		"chapter_title": "Phần sau - Tên gọi ấy",
+		"chapter_path": "uploads/20231226/28b8542984d157192c87154312c68936/chapter_71",
+		"chapter_image": [
+		  {
+			"image_page": 1,
+			"image_file": "page_1.jpg"
+		  },
+		  {
+			"image_page": 2,
+			"image_file": "page_2.jpg"
+		  },
+		  {
+			"image_page": 3,
+			"image_file": "page_3.jpg"
+		  },
+		  {
+			"image_page": 4,
+			"image_file": "page_4.jpg"
+		  },
+		  {
+			"image_page": 5,
+			"image_file": "page_5.jpg"
+		  },
+		  {
+			"image_page": 6,
+			"image_file": "page_6.jpg"
+		  },
+		  {
+			"image_page": 7,
+			"image_file": "page_7.jpg"
+		  },
+		  {
+			"image_page": 8,
+			"image_file": "page_8.jpg"
+		  },
+		  {
+			"image_page": 9,
+			"image_file": "page_9.jpg"
+		  },
+		  {
+			"image_page": 10,
+			"image_file": "page_10.jpg"
+		  },
+		  {
+			"image_page": 11,
+			"image_file": "page_11.jpg"
+		  },
+		  {
+			"image_page": 12,
+			"image_file": "page_12.jpg"
+		  },
+		  {
+			"image_page": 13,
+			"image_file": "page_13.jpg"
+		  },
+		  {
+			"image_page": 14,
+			"image_file": "page_14.jpg"
+		  }
+		]
+	  }
+	}
+  }

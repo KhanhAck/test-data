@@ -1,0 +1,88 @@
+{
+	"status": "success",
+	"message": "",
+	"data": {
+	  "domain_cdn": "https://i.bumcheo1.info",
+	  "item": {
+		"_id": "65186f163daf2029e96684b2",
+		"comic_name": "Kurogane [Chap 0-70]",
+		"chapter_name": "17",
+		"chapter_title": "Chiến lược tuyệt mật !",
+		"chapter_path": "9/9590",
+		"chapter_image": [
+		  {
+			"image_page": 1,
+			"image_file": "kurogane17-kurogane-ch017-001-p2j.jpg"
+		  },
+		  {
+			"image_page": 2,
+			"image_file": "kurogane17-kurogane-ch017-002-p2j.jpg"
+		  },
+		  {
+			"image_page": 3,
+			"image_file": "kurogane17-kurogane-ch017-003-p2j.jpg"
+		  },
+		  {
+			"image_page": 4,
+			"image_file": "kurogane17-kurogane-ch017-004-p2j.jpg"
+		  },
+		  {
+			"image_page": 5,
+			"image_file": "kurogane17-kurogane-ch017-005-p2j.jpg"
+		  },
+		  {
+			"image_page": 6,
+			"image_file": "kurogane17-kurogane-ch017-006-p2j.jpg"
+		  },
+		  {
+			"image_page": 7,
+			"image_file": "kurogane17-kurogane-ch017-007-p2j.jpg"
+		  },
+		  {
+			"image_page": 8,
+			"image_file": "kurogane17-kurogane-ch017-008-p2j.jpg"
+		  },
+		  {
+			"image_page": 9,
+			"image_file": "kurogane17-kurogane-ch017-009-p2j.jpg"
+		  },
+		  {
+			"image_page": 10,
+			"image_file": "kurogane17-kurogane-ch017-010-p2j.jpg"
+		  },
+		  {
+			"image_page": 11,
+			"image_file": "kurogane17-kurogane-ch017-011-p2j.jpg"
+		  },
+		  {
+			"image_page": 12,
+			"image_file": "kurogane17-kurogane-ch017-012-p2j.jpg"
+		  },
+		  {
+			"image_page": 13,
+			"image_file": "kurogane17-kurogane-ch017-013-p2j.jpg"
+		  },
+		  {
+			"image_page": 14,
+			"image_file": "kurogane17-kurogane-ch017-014-p2j.jpg"
+		  },
+		  {
+			"image_page": 15,
+			"image_file": "kurogane17-kurogane-ch017-015-p2j.jpg"
+		  },
+		  {
+			"image_page": 16,
+			"image_file": "kurogane17-kurogane-ch017-016-p2j.jpg"
+		  },
+		  {
+			"image_page": 17,
+			"image_file": "kurogane17-kurogane-ch017-017-p2j.jpg"
+		  },
+		  {
+			"image_page": 18,
+			"image_file": "kurogane17-kurogane-ch017-018-019-p2j.jpg"
+		  }
+		]
+	  }
+	}
+  }

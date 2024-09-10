@@ -1,0 +1,72 @@
+{
+    "status": "success",
+    "message": "",
+    "data": {
+        "domain_cdn": "https://i8-2.bumcheo.info",
+        "item": {
+            "_id": "6589a9baac52820f5648b527",
+            "comic_name": "Azur Lane Queen Order [Chap 1-96]",
+            "chapter_name": "39",
+            "chapter_title": ";s Orders Tổng hợp các Shipfu đã xuất hiện từ đầu tới giờ______Sakura Empire(IJN)",
+            "chapter_path": "868/868720",
+            "chapter_image": [
+                {
+                    "image_page": 1,
+                    "image_file": "0.jpg"
+                },
+                {
+                    "image_page": 2,
+                    "image_file": "1.jpg"
+                },
+                {
+                    "image_page": 3,
+                    "image_file": "2.jpg"
+                },
+                {
+                    "image_page": 4,
+                    "image_file": "3.jpg"
+                },
+                {
+                    "image_page": 5,
+                    "image_file": "4.jpg"
+                },
+                {
+                    "image_page": 6,
+                    "image_file": "5.jpg"
+                },
+                {
+                    "image_page": 7,
+                    "image_file": "6.jpg"
+                },
+                {
+                    "image_page": 8,
+                    "image_file": "7.jpg"
+                },
+                {
+                    "image_page": 9,
+                    "image_file": "8.jpg"
+                },
+                {
+                    "image_page": 10,
+                    "image_file": "9.jpg"
+                },
+                {
+                    "image_page": 11,
+                    "image_file": "10.jpg"
+                },
+                {
+                    "image_page": 12,
+                    "image_file": "11.jpg"
+                },
+                {
+                    "image_page": 13,
+                    "image_file": "12.jpg"
+                },
+                {
+                    "image_page": 14,
+                    "image_file": "13.jpg"
+                }
+            ]
+        }
+    }
+}

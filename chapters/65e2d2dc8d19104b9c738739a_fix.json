@@ -1,0 +1,92 @@
+{
+    "status": "success",
+    "message": "",
+    "data": {
+        "domain_cdn": "https://i8-2.bumcheo.info",
+        "item": {
+            "_id": "65d3164e8d19104b9c730143",
+            "comic_name": "Fatetype Redline - Truyền Kỳ về Chén Thánh Đế Đô [Chap 1-20]",
+            "chapter_name": "20",
+            "chapter_title": "2",
+            "chapter_path": "865/865429",
+            "chapter_image": [
+                {
+                    "image_page": 1,
+                    "image_file": "0.jpg?v=1709655904"
+                },
+                {
+                    "image_page": 2,
+                    "image_file": "1.jpg?v=1709655905"
+                },
+                {
+                    "image_page": 3,
+                    "image_file": "2.jpg?v=1709655905"
+                },
+                {
+                    "image_page": 4,
+                    "image_file": "3.jpg?v=1709655905"
+                },
+                {
+                    "image_page": 5,
+                    "image_file": "4.jpg?v=1709655906"
+                },
+                {
+                    "image_page": 6,
+                    "image_file": "5.jpg?v=1709655906"
+                },
+                {
+                    "image_page": 7,
+                    "image_file": "6.jpg?v=1709655906"
+                },
+                {
+                    "image_page": 8,
+                    "image_file": "7.jpg?v=1709655907"
+                },
+                {
+                    "image_page": 9,
+                    "image_file": "8.jpg?v=1709655907"
+                },
+                {
+                    "image_page": 10,
+                    "image_file": "9.jpg?v=1709655907"
+                },
+                {
+                    "image_page": 11,
+                    "image_file": "10.jpg?v=1709655909"
+                },
+                {
+                    "image_page": 12,
+                    "image_file": "11.jpg?v=1709655909"
+                },
+                {
+                    "image_page": 13,
+                    "image_file": "12.jpg?v=1709655909"
+                },
+                {
+                    "image_page": 14,
+                    "image_file": "13.jpg?v=1709655910"
+                },
+                {
+                    "image_page": 15,
+                    "image_file": "14.jpg?v=1709655910"
+                },
+                {
+                    "image_page": 16,
+                    "image_file": "15.jpg?v=1709655910"
+                },
+                {
+                    "image_page": 17,
+                    "image_file": "16.jpg?v=1709655911"
+                },
+                {
+                    "image_page": 18,
+                    "image_file": "17.jpg?v=1709655911"
+                },
+                {
+                    "image_page": 19,
+                    "image_file": "18.jpg?v=1709655912"
+                }
+            ]
+        }
+    }
+}

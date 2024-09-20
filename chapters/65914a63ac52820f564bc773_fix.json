@@ -1,0 +1,140 @@
+{
+  "status": "success",
+  "message": "",
+  "data": {
+    "domain_cdn": "https://sv1.otruyencdn.com",
+    "item": {
+      "_id": "65914a63ac52820f564bc773",
+      "comic_name": "Poe no Ichizoku - Gia tộc Poe [Chap 1-15]",
+      "chapter_name": "4",
+      "chapter_title": "2 Gia tộc Poe (phần 2)",
+      "chapter_path": "uploads/20231231/28106ccc7630cdeeae9cdbe9a4c91015/chapter_4",
+      "chapter_image": [
+        {
+          "image_page": 1,
+          "image_file": "page_1.jpg"
+        },
+        {
+          "image_page": 2,
+          "image_file": "page_2.jpg"
+        },
+        {
+          "image_page": 3,
+          "image_file": "page_3.jpg"
+        },
+        {
+          "image_page": 4,
+          "image_file": "page_4.jpg"
+        },
+        {
+          "image_page": 5,
+          "image_file": "page_5.jpg"
+        },
+        {
+          "image_page": 6,
+          "image_file": "page_6.jpg"
+        },
+        {
+          "image_page": 7,
+          "image_file": "page_7.jpg"
+        },
+        {
+          "image_page": 8,
+          "image_file": "page_8.jpg"
+        },
+        {
+          "image_page": 9,
+          "image_file": "page_9.jpg"
+        },
+        {
+          "image_page": 10,
+          "image_file": "page_10.jpg"
+        },
+        {
+          "image_page": 11,
+          "image_file": "page_11.jpg"
+        },
+        {
+          "image_page": 12,
+          "image_file": "page_12.jpg"
+        },
+        {
+          "image_page": 13,
+          "image_file": "page_13.jpg"
+        },
+        {
+          "image_page": 14,
+          "image_file": "page_14.jpg"
+        },
+        {
+          "image_page": 15,
+          "image_file": "page_15.jpg"
+        },
+        {
+          "image_page": 16,
+          "image_file": "page_16.jpg"
+        },
+        {
+          "image_page": 17,
+          "image_file": "page_17.jpg"
+        },
+        {
+          "image_page": 18,
+          "image_file": "page_18.jpg"
+        },
+        {
+          "image_page": 19,
+          "image_file": "page_19.jpg"
+        },
+        {
+          "image_page": 20,
+          "image_file": "page_20.jpg"
+        },
+        {
+          "image_page": 21,
+          "image_file": "page_21.jpg"
+        },
+        {
+          "image_page": 22,
+          "image_file": "page_22.jpg"
+        },
+        {
+          "image_page": 23,
+          "image_file": "page_23.jpg"
+        },
+        {
+          "image_page": 24,
+          "image_file": "page_24.jpg"
+        },
+        {
+          "image_page": 25,
+          "image_file": "page_25.jpg"
+        },
+        {
+          "image_page": 26,
+          "image_file": "page_26.jpg"
+        },
+        {
+          "image_page": 27,
+          "image_file": "page_27.jpg"
+        },
+        {
+          "image_page": 28,
+          "image_file": "page_28.jpg"
+        },
+        {
+          "image_page": 29,
+          "image_file": "page_29.jpg"
+        },
+        {
+          "image_page": 30,
+          "image_file": "page_30.jpg"
+        },
+        {
+          "image_page": 31,
+          "image_file": "page_31.jpg"
+        }
+      ]
+    }
+  }
+}
